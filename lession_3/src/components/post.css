@@ -1,0 +1,9 @@
+.bold {
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
